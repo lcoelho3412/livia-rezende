@@ -1,4 +1,4 @@
-// File: /home/liviarezende/Documentos/Trybe/Personal/livia-rezende/src/app/page.tsx
+// File: /home/leo/Personal Projects/livia-rezende/src/app/page.tsx
 import * as entry from '../../../src/app/page.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

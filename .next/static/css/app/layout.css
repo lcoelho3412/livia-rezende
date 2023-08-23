@@ -1860,6 +1860,9 @@ html {
 .h-5 {
   height: 1.25rem;
 }
+.h-24 {
+  height: 6rem;
+}
 .min-h-screen {
   min-height: 100vh;
 }
@@ -1871,6 +1874,9 @@ html {
 }
 .w-96 {
   width: 24rem;
+}
+.w-24 {
+  width: 6rem;
 }
 .max-w-md {
   max-width: 28rem;
