@@ -42,7 +42,9 @@ export const Header: React.FC = () => {
             </li>
           </ul>
         </div>
-        <a className="btn btn-ghost normal-case text-xl">daisyUI</a>
+        <li>
+        <Link href="/" className="btn btn-ghost normal-case text-xl">Livia Rezende</Link>
+        </li>
       </div>
       <div className="navbar-center hidden lg:flex">
         <ul className="menu menu-horizontal px-1">
